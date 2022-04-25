@@ -1,0 +1,13 @@
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\bin\Debug\netcoreapp3.1\RunnerSpeedCalculation.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\bin\Debug\netcoreapp3.1\RunnerSpeedCalculation.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\bin\Debug\netcoreapp3.1\RunnerSpeedCalculation.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\bin\Debug\netcoreapp3.1\RunnerSpeedCalculation.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\bin\Debug\netcoreapp3.1\RunnerSpeedCalculation.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\bin\Debug\netcoreapp3.1\RunnerSpeedCalculation.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\RunnerSpeedCalculation\obj\Debug\netcoreapp3.1\RunnerSpeedCalculation.genruntimeconfig.cache

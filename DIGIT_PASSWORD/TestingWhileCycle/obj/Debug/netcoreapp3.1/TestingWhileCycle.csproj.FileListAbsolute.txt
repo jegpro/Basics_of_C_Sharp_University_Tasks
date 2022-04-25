@@ -1,0 +1,13 @@
+C:\Users\kikzb\Desktop\TestingWhileCycle\bin\Debug\netcoreapp3.1\TestingWhileCycle.exe
+C:\Users\kikzb\Desktop\TestingWhileCycle\bin\Debug\netcoreapp3.1\TestingWhileCycle.deps.json
+C:\Users\kikzb\Desktop\TestingWhileCycle\bin\Debug\netcoreapp3.1\TestingWhileCycle.runtimeconfig.json
+C:\Users\kikzb\Desktop\TestingWhileCycle\bin\Debug\netcoreapp3.1\TestingWhileCycle.runtimeconfig.dev.json
+C:\Users\kikzb\Desktop\TestingWhileCycle\bin\Debug\netcoreapp3.1\TestingWhileCycle.dll
+C:\Users\kikzb\Desktop\TestingWhileCycle\bin\Debug\netcoreapp3.1\TestingWhileCycle.pdb
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.csprojAssemblyReference.cache
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.AssemblyInfoInputs.cache
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.AssemblyInfo.cs
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.dll
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.pdb
+C:\Users\kikzb\Desktop\TestingWhileCycle\obj\Debug\netcoreapp3.1\TestingWhileCycle.genruntimeconfig.cache

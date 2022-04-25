@@ -1,0 +1,52 @@
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\SPECIAL_TASK_EXECRISE_NR_2\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.genruntimeconfig.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\TRAININGS\SPECIAL_TASK_EXECRISE_NR_2_DATETIME\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.genruntimeconfig.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\DATE_TODAY_DATE_TOMORROW\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.genruntimeconfig.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.exe
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.deps.json
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.json
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.runtimeconfig.dev.json
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\bin\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csprojAssemblyReference.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfoInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.AssemblyInfo.cs
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.csproj.CoreCompileInputs.cache
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.dll
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.pdb
+C:\Users\kikzb\Documents\Visual Studio 2019\MY WORKS\TASK_ADVANCED\DATE_TODAY_DATE_TOMORROW_arrays\obj\Debug\netcoreapp3.1\SPECIAL_TASK_EXECRISE_NR_2.genruntimeconfig.cache
